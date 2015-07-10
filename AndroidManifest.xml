@@ -3,7 +3,7 @@
     package="com.example.tipcalculator"
     android:versionCode="1"
     android:versionName="1.0" >
-<!added new change 23>
+<!added new change 999>
     <uses-sdk
         android:minSdkVersion="19"
         android:targetSdkVersion="19" />
